@@ -1,6 +1,6 @@
 # Predict-Electricity-Demand-in-Ontario
 
-This repository contains files and code for the project - "Forecasting Ontario’s Electrical Demand Using Machine Learning". We collected the hourly electricity demand in Ontario from the years 2017 to 2020 (https://www.ieso.ca/en/Power-Data/Data-Directory). Other features used for the predictions include time (converted into sine-cosine encoding), temperature (a weighted average temperature across six weather stations in the major population centers across the province: Hamilton, Kitchener, London, Ottawa, Toronto and Windsor, from https://climate.weather.gc.ca), and holiday information. Four machine learning models (RF, FCNN, LSTM, GRU) are used and their model performances are compared. 
+This repository contains files and code for the project - "Forecasting Ontario’s Electrical Demand Using Machine Learning" - authored by Kuan Wei, Lucas Crea, Manuel Sage, and Jiarui Xie. We collected the hourly electricity demand in Ontario from the years 2017 to 2020 (https://www.ieso.ca/en/Power-Data/Data-Directory). Other features used for the predictions include time (converted into sine-cosine encoding), temperature (a weighted average temperature across six weather stations in the major population centers across the province: Hamilton, Kitchener, London, Ottawa, Toronto and Windsor, from https://climate.weather.gc.ca), and holiday information. Four machine learning models (RF, FCNN, LSTM, GRU) are used and their model performances are compared. 
 
 
 ## Preprocessing
